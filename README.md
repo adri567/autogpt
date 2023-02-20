@@ -3,3 +3,5 @@
 </div>
 
 --------
+
+AutoGPT is a Xcode Source Editor extension that enhances productivity by leveraging the capabilities of GPT. It helps you to automate common coding tasks and streamline your workflow.
