@@ -8,8 +8,6 @@ AutoGPT is a Xcode Source Editor extension that enhances productivity by leverag
 
 For a detailed look, which models fits perfect for you needs, you can take a look at Model.
 
-Currently autogpt only supports the basic API, since the ChatGPT API is not available for now. 
-
 # Live demo
 
 # Requirements 🚨
