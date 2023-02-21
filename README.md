@@ -6,6 +6,10 @@
 
 AutoGPT is a Xcode Source Editor extension that enhances productivity by leveraging the capabilities of GPT. It helps you to automate common coding tasks and streamline your workflow. AutoGPT uses the OpenAI's API and gives you the option to choose between four models Davinci, Curie, Babbage and Ada. For a detailed look, which models fits perfect for you needs, you can take a look at Model.
 
+# Live demo
+
+# Requirements 
+
 | Model | Description    | Training Data    |
 | :---   | :- | :--- |
 | Davinci | Most capable GPT-3 model. Can do any task the other models can do, often with higher quality, longer output and better instruction-following. | Up to Jun 2021  |
