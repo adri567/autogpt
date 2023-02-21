@@ -10,6 +10,9 @@ AutoGPT is a Xcode Source Editor extension that enhances productivity by leverag
 
 # Requirements 
 
+Xcode 13.0+
+An OpenAI API Key. You can get it here 👉🏽 https://platform.openai.com/account/api-keys
+
 | Model | Description    | Training Data    |
 | :---   | :- | :--- |
 | Davinci | Most capable GPT-3 model. Can do any task the other models can do, often with higher quality, longer output and better instruction-following. | Up to Jun 2021  |
