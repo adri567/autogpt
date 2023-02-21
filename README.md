@@ -12,7 +12,7 @@ AutoGPT is a Xcode Source Editor extension that enhances productivity by leverag
 
 * Xcode 13.0+
 * An OpenAI API Key.
-  * You can get it here 👉🏽 https://platform.openai.com/account/api-keys
+  * 👉🏽 https://platform.openai.com/account/api-keys 👈🏽
               
 
 
