@@ -18,26 +18,13 @@ https://adri567.gitbook.io/autogpt/
 
 # Live demo
 <p align="center">
-  ## Explain Code
+  Explain Code
   
   <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif"/> 
-    ## Shorten Code
+    Shorten Code
   
   <img src="https://user-images.githubusercontent.com/26815443/221001340-d7e6c7f1-1a59-405d-8bc0-1f57cdacdb78.gif"/>
-    ## Insert Code
+    Insert Code
   
 <img src="https://user-images.githubusercontent.com/26815443/221001359-67a1e7cb-7546-49f3-97fd-3b4860636997.gif"/>
 </p>
-## Title
-
-### Place 1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-### Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
-
-### Place's 3: other example
-
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
