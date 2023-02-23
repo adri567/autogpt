@@ -11,8 +11,8 @@ For a detailed look, which models fits perfect for you needs, you can take a loo
 # Live demo
 <div style="display:flex; align-items:center;">
   <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif"/> 
-  <p align="center">
-    Explain Code
+  <p style="padding-bottom: 100px;">
+  Explain Code
   </p>
   </div>
   <div>
