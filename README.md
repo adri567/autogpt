@@ -9,6 +9,10 @@ AutoGPT is a Xcode Source Editor extension that enhances productivity by leverag
 For a detailed look, which models fits perfect for you needs, you can take a look at Model.
 
 # Live demo
+![explain](https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif)
+![shorten](https://user-images.githubusercontent.com/26815443/221001340-d7e6c7f1-1a59-405d-8bc0-1f57cdacdb78.gif)
+![insert](https://user-images.githubusercontent.com/26815443/221001359-67a1e7cb-7546-49f3-97fd-3b4860636997.gif)
+
 
 # Requirements 🚨
 
@@ -29,12 +33,3 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 ### Place's 3: other example
 
 Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
-              
-
-
-| Model | Description    | Training Data    |
-| :---   | :- | :--- |
-| Davinci | Most capable GPT-3 model. Can do any task the other models can do, often with higher quality, longer output and better instruction-following. | Up to Jun 2021  |
-| Curie | Very capable, but faster and lower cost than Davinci. | Up to Oct 2019  |
-| Babbage | Capable of straightforward tasks, very fast, and lower cost. | Up to Oct 2019 |
-| Ada | Capable of very simple tasks, usually the fastest model in the GPT-3 series, and lowest cost. | Up to Oct 2019  |
