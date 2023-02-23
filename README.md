@@ -9,15 +9,13 @@ AutoGPT is a Xcode Source Editor extension that enhances productivity by leverag
 For a detailed look, which models fits perfect for you needs, you can take a look at Model.
 
 # Live demo
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif" width="50%" height="auto">
-</p>
-<p align="center">
-  TEXT
-</p>
-
 <div style="display:flex; align-items:center;">
   <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif"/> 
+  <div style="margin-left: 100px;">
+
+Markdown content goes here.
+
+</div>
    Explain Code
   </div>
   <div>
