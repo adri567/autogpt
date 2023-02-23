@@ -20,7 +20,7 @@ https://adri567.gitbook.io/autogpt/
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif" width="500" />
-  <img src="https://user-images.githubusercontent.com/26815443/221008342-98261bc6-bb45-4c42-a11c-ecec1a615ddf.png" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/26815443/221010677-96200d4d-bbfe-4b5c-a509-25ab38223be7.png" width="500" /> 
 </p>
 
 <p float="left">
@@ -30,6 +30,5 @@ https://adri567.gitbook.io/autogpt/
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/26815443/221001359-67a1e7cb-7546-49f3-97fd-3b4860636997.gif" width="500" />
-  <img src="https://user-images.githubusercontent.com/26815443/221008342-98261bc6-bb45-4c42-a11c-ecec1a615ddf.png" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/26815443/221010749-f8b65959-1e63-4703-b11e-acfd9f048589.png" width="500" /> 
 </p>
-
