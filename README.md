@@ -19,7 +19,8 @@ https://adri567.gitbook.io/autogpt/
 # Live demo
 <p align="center">
   Explain Code
-  
+  <img src="https://user-images.githubusercontent.com/26815443/221008342-98261bc6-bb45-4c42-a11c-ecec1a615ddf.png"/> 
+
   <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif"/> 
     Shorten Code
   
