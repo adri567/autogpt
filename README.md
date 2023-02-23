@@ -11,11 +11,7 @@ For a detailed look, which models fits perfect for you needs, you can take a loo
 # Live demo
 <div style="display:flex; align-items:center;">
   <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif"/> 
-  <div style="margin-left: 100px;">
-
-Markdown content goes here.
-
-</div>
+  <font size="2"›**we are now adding a Bold text in a string with font size 2 </font>
    Explain Code
   </div>
   <div>
