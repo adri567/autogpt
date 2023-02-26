@@ -18,7 +18,8 @@ AutoGPT is a Xcode Source Editor extension that enhances productivity by leverag
 
 # 🎬 Live demo
 
-## test
+## Explain Code
+Select a piece of code in your Swift project and use the Explain Code command. The UI will then display, and you can view the code explanation in the response section.
   <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif" />
   
   <img src="https://user-images.githubusercontent.com/26815443/221010677-96200d4d-bbfe-4b5c-a509-25ab38223be7.png" width="500" /> 
