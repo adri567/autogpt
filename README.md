@@ -26,3 +26,5 @@ AutoGPT is a Xcode Source Editor extension that enhances productivity by leverag
 
 ### Insert Code
   <img src="https://user-images.githubusercontent.com/26815443/221001359-67a1e7cb-7546-49f3-97fd-3b4860636997.gif" />
+
+AutoGPT has a whole range of different commands that can be used. See for yourself and get AutoGPT today!
