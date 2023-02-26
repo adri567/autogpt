@@ -6,17 +6,17 @@
 
 AutoGPT is a Xcode Source Editor extension that enhances productivity by leveraging the capabilities of GPT. It helps you to automate common coding tasks and streamline your workflow. AutoGPT uses the OpenAI's API and gives you the option to choose between four models Davinci, Curie, Babbage and Ada. 
 
-# 🚨 Requirements
+# 🚨 REQUIREMENTS
 
 * Xcode 13.0+
 * An OpenAI API Key
   * https://platform.openai.com/account/api-keys
 
-# 🔌 How to use guide
+# 🔌 HOW TO USE GUIDE
 
 * https://adri567.gitbook.io/autogpt/
 
-# 🎬 Live demo
+# 🎬 LIVE DEMO
 
 ### Explain Code
   <img src="https://user-images.githubusercontent.com/26815443/221001328-75ad4da6-36da-4974-a1d9-3bfe845cd6a3.gif" />
