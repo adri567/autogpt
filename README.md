@@ -14,7 +14,7 @@ AutoGPT is a Xcode Source Editor extension that enhances productivity by leverag
 
 # 🔌 How to use guide
 
-https://adri567.gitbook.io/autogpt/
+* https://adri567.gitbook.io/autogpt/
 
 # 🎬 Live demo
 
