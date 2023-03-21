@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AutoUI</title>
+        <item>
+            <title>1.3</title>
+            <pubDate>Tue, 21 Mar 2023 12:06:29 +0100</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://adri567.github.io/autogpt/AutoGPT_1.3.dmg" length="1846055" type="application/octet-stream" sparkle:edSignature="WgVQYaOs/JpiZDb00m9hRcyN2KDBhlbK5/qzLhbcTcRsnZR76ARRTxoM7ZO0ajr8icqEcje0h2ax5yWhtXtLBA=="/>
+        </item>
+    </channel>
+</rss>
